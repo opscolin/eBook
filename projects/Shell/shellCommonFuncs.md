@@ -4,11 +4,21 @@ Linux Shell customed common functions
 </pre>
 
 ---
-[toc]
+Table of Contents
+=================
+
+         * [摘要](#摘要)
+         * [Print log with date](#print-log-with-date)
+         * [Get the first and last day of last Month](#get-the-first-and-last-day-of-last-month)
+         * [Add certain day on one date](#add-certain-day-on-one-date)
+         * [Send mails](#send-mails)
+         * [Get last month or next month](#get-last-month-or-next-month)
+         * [Get random password](#get-random-password)
+         * [Parse the ini file](#parse-the-ini-file)
 
 
 ---
-### 摘要
+###摘要
 > 将这些函数整理到一个`shell`脚本中去，然后可以通过`source`在别的脚本中直接使用
 > 
 > 像使用一般Linux命令一样使用这些自定义的函数
